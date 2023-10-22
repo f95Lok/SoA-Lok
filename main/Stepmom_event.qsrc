@@ -366,7 +366,7 @@ if $ARGS[0]="Stepmom_bathroom":
 			if $Stepmom_bathroomNUM=0:
 			'<div class="buttonS"><a href="exec:minutes+=15 & a=1 & gt ''Stepmom_event'',''Quick bathroom''">Force her in</a></div>'
 			else
-			'<div class="buttonS"><a href="exec:minutes+=15 & gt ''Stepmom_event'',''JM_Fuck_bathroom'',''shower0''">Go in</a></div>'
+			'<div class="buttonS"><a href="exec:minutes+=15 & gt ''Stepmom_event'',''JM_Fuck_bathroom'',''淋浴0''">Go in</a></div>'
 			end
 		end
 		'<div class="button"><a href="exec:minutes+=15 & gt ''home''">leave</a></div>'
@@ -1106,7 +1106,7 @@ if $args[0]="JM_Fuck_bathroom":
 
 				'<div class="button"><a href="exec:minutes+=60 & gt ''Home_bedroom''">Go back to the room</a></div>'
 				if $JM_Event_mgfs>=3:
-				'<div class="button"><a href="exec:minutes+=60 & q=0 &a=2& gt ''Stepmom_event'',''JM_Fuck_McGovern'',''Bathroom accessories''">Let her follow you</a></div>'
+				'<div class="button"><a href="exec:minutes+=60 & q=0 &a=2& gt ''Stepmom_event'',''JM_Fuck_McGovern'',''浴室袭''">Let her follow you</a></div>'
 				end
 			'</div>'
 	end
